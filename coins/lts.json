@@ -1,0 +1,9 @@
+{
+    "name": "Lotuscoin",
+    "symbol": "LTS",
+    "algorithm": "skein2",
+    "explorerGetBlockJSON": "http://exp.ltscoin.org/api/getblock?hash=",
+    "explorerGetBlock": "http://exp.ltscoin.org/api/getblockcount",
+    "explorerGetTX": "http://exp.ltscoin.org/api/getrawtransaction?txid={0}&decrypt=1",
+    "blockTime": 60
+}

@@ -1,0 +1,776 @@
+[2023-09-24T13:39:54.330Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:39:54.335Z] [warn] [system] [init.js] : PoolSpawner: No pool configs exists or are enabled in pool_configs folder. No pools spawned.
+[2023-09-24T13:39:56.353Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:39:56.624Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:39:56.622Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:39:56.625Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:39:56.627Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:39:56.660Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:39:56.677Z] [error] [system] [init.js] : Master
+[2023-09-24T13:40:04.612Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:40:04.617Z] [warn] [system] [init.js] : PoolSpawner: No pool configs exists or are enabled in pool_configs folder. No pools spawned.
+[2023-09-24T13:40:06.629Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:40:06.865Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:40:06.863Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:40:06.865Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:40:06.867Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:40:06.885Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:40:06.907Z] [error] [system] [init.js] : Master
+[2023-09-24T13:41:58.387Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:41:58.392Z] [warn] [system] [init.js] : PoolSpawner: No pool configs exists or are enabled in pool_configs folder. No pools spawned.
+[2023-09-24T13:42:00.401Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:42:00.714Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:42:00.712Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:42:00.715Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:42:00.716Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:42:00.748Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:42:00.765Z] [error] [system] [init.js] : Master
+[2023-09-24T13:42:33.559Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:42:34.155Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-09-24T13:42:34.161Z] [debug] [aced] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:34.168Z] [error] [aced] [Pool [:1]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:34.171Z] [debug] [system] [SwitchingSetup[:1]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:34.169Z] [warn] [aced] [Pool [:1]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:34.176Z] [info] [aced] [Pool [:1]] : Stratum Pool Server Started for aced [ACED] {x11}
+						Network Connected:	Mainnet
+						Detected Reward Type:	POW
+						Current Block Height:	157118
+						Current Connect Peers:	11
+						Current Block Diff:	303.320496827
+						Network Difficulty:	303.32049683
+						Network Hash Rate:	8.37 GH
+						Stratum Port(s):	4032, 4256
+						Pool Fee Percent:	0%
+						Block polling every:	1000 ms
+[2023-09-24T13:42:34.177Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:42:34.351Z] [debug] [system] [SwitchingSetup[:2]] : Loading last proxy state from redis
+[2023-09-24T13:42:34.370Z] [debug] [aced] [ShareProcessor [:1]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:34.372Z] [debug] [system] [SwitchingSetup[:2]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:34.392Z] [error] [aced] [Pool [:2]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:34.392Z] [warn] [aced] [Pool [:2]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:34.401Z] [info] [aced] [Pool [:2]] : Stratum Pool Server Started for aced [ACED] {x11}
+[2023-09-24T13:42:34.401Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:42:34.594Z] [debug] [system] [SwitchingSetup[:3]] : Loading last proxy state from redis
+[2023-09-24T13:42:34.600Z] [debug] [aced] [ShareProcessor [:2]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:34.603Z] [debug] [system] [SwitchingSetup[:3]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:34.686Z] [error] [aced] [Pool [:3]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:34.687Z] [warn] [aced] [Pool [:3]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:34.695Z] [info] [aced] [Pool [:3]] : Stratum Pool Server Started for aced [ACED] {x11}
+[2023-09-24T13:42:34.695Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:42:34.850Z] [debug] [system] [SwitchingSetup[:4]] : Loading last proxy state from redis
+[2023-09-24T13:42:34.869Z] [debug] [aced] [ShareProcessor [:3]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:34.872Z] [debug] [system] [SwitchingSetup[:4]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:35.101Z] [debug] [system] [SwitchingSetup[:5]] : Loading last proxy state from redis
+[2023-09-24T13:42:35.108Z] [debug] [aced] [ShareProcessor [:4]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:35.124Z] [debug] [system] [SwitchingSetup[:5]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:35.168Z] [error] [aced] [Pool [:4]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:35.169Z] [warn] [aced] [Pool [:4]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:35.173Z] [error] [aced] [Pool [:5]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:35.175Z] [info] [aced] [Pool [:4]] : Stratum Pool Server Started for aced [ACED] {x11}
+[2023-09-24T13:42:35.176Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:42:35.174Z] [warn] [aced] [Pool [:5]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:35.183Z] [info] [aced] [Pool [:5]] : Stratum Pool Server Started for aced [ACED] {x11}
+[2023-09-24T13:42:35.183Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:42:35.458Z] [debug] [system] [SwitchingSetup[:6]] : Loading last proxy state from redis
+[2023-09-24T13:42:35.487Z] [debug] [aced] [ShareProcessor [:5]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:35.490Z] [debug] [system] [SwitchingSetup[:6]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:35.500Z] [error] [aced] [Pool [:6]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:35.500Z] [warn] [aced] [Pool [:6]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:35.510Z] [info] [aced] [Pool [:6]] : Stratum Pool Server Started for aced [ACED] {x11}
+[2023-09-24T13:42:35.510Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:42:35.580Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:42:35.619Z] [debug] [system] [init.js] : Master
+[2023-09-24T13:42:35.724Z] [debug] [system] [SwitchingSetup[:7]] : Loading last proxy state from redis
+[2023-09-24T13:42:35.735Z] [debug] [aced] [ShareProcessor [:6]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:35.739Z] [debug] [system] [SwitchingSetup[:7]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:35.824Z] [error] [aced] [Pool [:7]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:35.825Z] [warn] [aced] [Pool [:7]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:35.834Z] [info] [aced] [Pool [:7]] : Stratum Pool Server Started for aced [ACED] {x11}
+[2023-09-24T13:42:35.835Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:42:35.852Z] [info] [system] [PaymentProcessing] : Payment processor worker started
+[2023-09-24T13:42:35.857Z] [debug] [aced] [PaymentProcessor] : Validating address and balance
+[2023-09-24T13:42:35.854Z] [info] [system] [PaymentProcessing] : Enabled aced for payment processing
+[2023-09-24T13:42:35.883Z] [error] [aced] [PaymentProcessor] : Daemon does not own pool address - payment processing can not be done with this daemon, {"isvalid":true,"address":"LYDULxWDnzp4oz9ULgQNPJNeyjgWa7jw9k","ismine":false}
+[2023-09-24T13:42:35.884Z] [debug] [system] [PaymentProcessing] : Processing processor initialized. Setup results false
+[2023-09-24T13:42:35.884Z] [error] [aced] [PaymentProcessor] : There was error during payment processor setup true
+[2023-09-24T13:42:35.895Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:42:35.893Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:42:35.896Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:42:35.897Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:42:35.911Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:42:35.971Z] [warn] [system] [Website] : Daemon returned unexpected return code 500, data = "{\"result\":null,\"error\":{\"code\":-4,\"message\":\"Private key for address LYDULxWDnzp4oz9ULgQNPJNeyjgWa7jw9k is not known\"},\"id\":1695562955927}\n"
+[2023-09-24T13:42:36.014Z] [debug] [system] [SwitchingSetup[:8]] : Loading last proxy state from redis
+[2023-09-24T13:42:36.042Z] [debug] [aced] [ShareProcessor [:7]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:42:36.045Z] [debug] [system] [SwitchingSetup[:8]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:42:36.140Z] [error] [aced] [Pool [:8]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:42:36.140Z] [warn] [aced] [Pool [:8]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:42:36.149Z] [info] [aced] [Pool [:8]] : Stratum Pool Server Started for aced [ACED] {x11}
+[2023-09-24T13:42:36.150Z] [debug] [system] [PoolWorker] : [x11] Setting proxy difficulties after pool start
+[2023-09-24T13:47:23.838Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:47:23.840Z] [error] [system] [init.js] : [lotuscoin] Cannot run a pool for unsupported algorithm "skein2"
+[2023-09-24T13:47:23.841Z] [warn] [system] [init.js] : PoolSpawner: No pool configs exists or are enabled in pool_configs folder. No pools spawned.
+[2023-09-24T13:47:25.851Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:47:26.155Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:47:26.152Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:47:26.156Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:47:26.159Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:47:26.202Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:47:26.223Z] [error] [system] [init.js] : Master
+[2023-09-24T13:47:28.470Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:47:28.468Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:47:28.470Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:47:28.472Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:47:28.501Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:47:28.519Z] [error] [system] [init.js] : Master
+[2023-09-24T13:47:42.642Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:47:43.163Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-09-24T13:47:43.170Z] [debug] [lotuscoin] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:43.177Z] [error] [lotuscoin] [Pool [:1]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:43.177Z] [warn] [lotuscoin] [Pool [:1]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:43.183Z] [debug] [system] [SwitchingSetup[:1]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:43.184Z] [info] [lotuscoin] [Pool [:1]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+						Network Connected:	Mainnet
+						Detected Reward Type:	POW
+						Current Block Height:	157121
+						Current Connect Peers:	11
+						Current Block Diff:	303.320496827
+						Network Difficulty:	303.32049683
+						Network Hash Rate:	8.37 GH
+						Stratum Port(s):	4032, 4256
+						Pool Fee Percent:	0%
+						Block polling every:	1000 ms
+[2023-09-24T13:47:43.185Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:43.407Z] [debug] [system] [SwitchingSetup[:2]] : Loading last proxy state from redis
+[2023-09-24T13:47:43.413Z] [debug] [lotuscoin] [ShareProcessor [:1]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:43.415Z] [debug] [system] [SwitchingSetup[:2]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:43.442Z] [error] [lotuscoin] [Pool [:2]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:43.442Z] [warn] [lotuscoin] [Pool [:2]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:43.447Z] [info] [lotuscoin] [Pool [:2]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:47:43.448Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:43.662Z] [debug] [system] [SwitchingSetup[:3]] : Loading last proxy state from redis
+[2023-09-24T13:47:43.668Z] [debug] [lotuscoin] [ShareProcessor [:2]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:43.674Z] [debug] [system] [SwitchingSetup[:3]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:43.676Z] [error] [lotuscoin] [Pool [:3]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:43.676Z] [warn] [lotuscoin] [Pool [:3]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:43.682Z] [info] [lotuscoin] [Pool [:3]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:47:43.683Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:43.925Z] [debug] [system] [SwitchingSetup[:4]] : Loading last proxy state from redis
+[2023-09-24T13:47:43.943Z] [debug] [lotuscoin] [ShareProcessor [:3]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:43.949Z] [debug] [system] [SwitchingSetup[:4]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:43.951Z] [error] [lotuscoin] [Pool [:4]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:43.951Z] [warn] [lotuscoin] [Pool [:4]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:43.957Z] [info] [lotuscoin] [Pool [:4]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:47:43.957Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:44.213Z] [debug] [system] [SwitchingSetup[:5]] : Loading last proxy state from redis
+[2023-09-24T13:47:44.233Z] [debug] [lotuscoin] [ShareProcessor [:4]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:44.238Z] [debug] [system] [SwitchingSetup[:5]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:44.241Z] [error] [lotuscoin] [Pool [:5]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:44.241Z] [warn] [lotuscoin] [Pool [:5]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:44.247Z] [info] [lotuscoin] [Pool [:5]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:47:44.248Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:44.449Z] [debug] [system] [SwitchingSetup[:6]] : Loading last proxy state from redis
+[2023-09-24T13:47:44.455Z] [debug] [lotuscoin] [ShareProcessor [:5]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:44.458Z] [debug] [system] [SwitchingSetup[:6]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:44.480Z] [error] [lotuscoin] [Pool [:6]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:44.481Z] [warn] [lotuscoin] [Pool [:6]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:44.491Z] [info] [lotuscoin] [Pool [:6]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:47:44.492Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:44.662Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:47:44.685Z] [debug] [system] [init.js] : Master
+[2023-09-24T13:47:44.703Z] [debug] [system] [SwitchingSetup[:7]] : Loading last proxy state from redis
+[2023-09-24T13:47:44.723Z] [debug] [lotuscoin] [ShareProcessor [:6]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:44.725Z] [debug] [system] [SwitchingSetup[:7]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:44.784Z] [error] [lotuscoin] [Pool [:7]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:44.785Z] [warn] [lotuscoin] [Pool [:7]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:44.791Z] [info] [lotuscoin] [Pool [:7]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:47:44.791Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:44.934Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:47:44.932Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:47:44.934Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:47:44.936Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:47:44.969Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:47:44.978Z] [warn] [system] [Website] : Daemon returned unexpected return code 500, data = "{\"result\":null,\"error\":{\"code\":-4,\"message\":\"Private key for address LYDULxWDnzp4oz9ULgQNPJNeyjgWa7jw9k is not known\"},\"id\":1695563264976}\n"
+[2023-09-24T13:47:45.022Z] [debug] [system] [SwitchingSetup[:8]] : Loading last proxy state from redis
+[2023-09-24T13:47:45.028Z] [debug] [lotuscoin] [ShareProcessor [:7]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:47:45.033Z] [debug] [system] [SwitchingSetup[:8]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:47:45.036Z] [error] [lotuscoin] [Pool [:8]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:47:45.036Z] [warn] [lotuscoin] [Pool [:8]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:47:45.043Z] [info] [lotuscoin] [Pool [:8]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:47:45.043Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:47:45.048Z] [info] [system] [PaymentProcessing] : Payment processor worker started
+[2023-09-24T13:47:45.053Z] [debug] [lotuscoin] [PaymentProcessor] : Validating address and balance
+[2023-09-24T13:47:45.049Z] [info] [system] [PaymentProcessing] : Enabled lotuscoin for payment processing
+[2023-09-24T13:47:45.065Z] [error] [lotuscoin] [PaymentProcessor] : Daemon does not own pool address - payment processing can not be done with this daemon, {"isvalid":true,"address":"LYDULxWDnzp4oz9ULgQNPJNeyjgWa7jw9k","ismine":false}
+[2023-09-24T13:47:45.065Z] [debug] [system] [PaymentProcessing] : Processing processor initialized. Setup results false
+[2023-09-24T13:47:45.065Z] [error] [lotuscoin] [PaymentProcessor] : There was error during payment processor setup true
+[2023-09-24T13:48:42.607Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:48:43.157Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-09-24T13:48:43.177Z] [debug] [lotuscoin] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:43.184Z] [error] [lotuscoin] [Pool [:1]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:43.187Z] [debug] [system] [SwitchingSetup[:1]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:43.184Z] [warn] [lotuscoin] [Pool [:1]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:43.192Z] [info] [lotuscoin] [Pool [:1]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+						Network Connected:	Mainnet
+						Detected Reward Type:	POW
+						Current Block Height:	157123
+						Current Connect Peers:	11
+						Current Block Diff:	303.320496827
+						Network Difficulty:	303.32049683
+						Network Hash Rate:	8.34 GH
+						Stratum Port(s):	4032, 4256
+						Pool Fee Percent:	0%
+						Block polling every:	1000 ms
+[2023-09-24T13:48:43.192Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:43.459Z] [debug] [system] [SwitchingSetup[:2]] : Loading last proxy state from redis
+[2023-09-24T13:48:43.465Z] [debug] [lotuscoin] [ShareProcessor [:1]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:43.468Z] [debug] [system] [SwitchingSetup[:2]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:43.502Z] [error] [lotuscoin] [Pool [:2]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:43.502Z] [warn] [lotuscoin] [Pool [:2]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:43.536Z] [info] [lotuscoin] [Pool [:2]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:48:43.536Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:43.632Z] [debug] [system] [SwitchingSetup[:3]] : Loading last proxy state from redis
+[2023-09-24T13:48:43.651Z] [debug] [lotuscoin] [ShareProcessor [:2]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:43.654Z] [debug] [system] [SwitchingSetup[:3]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:43.697Z] [error] [lotuscoin] [Pool [:3]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:43.698Z] [warn] [lotuscoin] [Pool [:3]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:43.755Z] [info] [lotuscoin] [Pool [:3]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:48:43.755Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:43.986Z] [debug] [system] [SwitchingSetup[:4]] : Loading last proxy state from redis
+[2023-09-24T13:48:44.006Z] [debug] [lotuscoin] [ShareProcessor [:3]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:44.013Z] [error] [lotuscoin] [Pool [:4]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:44.015Z] [debug] [system] [SwitchingSetup[:4]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:44.013Z] [warn] [lotuscoin] [Pool [:4]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:44.020Z] [info] [lotuscoin] [Pool [:4]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:48:44.021Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:44.152Z] [debug] [system] [SwitchingSetup[:5]] : Loading last proxy state from redis
+[2023-09-24T13:48:44.171Z] [debug] [lotuscoin] [ShareProcessor [:4]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:44.177Z] [debug] [system] [SwitchingSetup[:5]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:44.180Z] [error] [lotuscoin] [Pool [:5]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:44.180Z] [warn] [lotuscoin] [Pool [:5]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:44.186Z] [info] [lotuscoin] [Pool [:5]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:48:44.187Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:44.474Z] [debug] [system] [SwitchingSetup[:6]] : Loading last proxy state from redis
+[2023-09-24T13:48:44.502Z] [debug] [lotuscoin] [ShareProcessor [:5]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:44.506Z] [debug] [system] [SwitchingSetup[:6]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:44.548Z] [error] [lotuscoin] [Pool [:6]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:44.548Z] [warn] [lotuscoin] [Pool [:6]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:44.578Z] [info] [lotuscoin] [Pool [:6]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:48:44.578Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:44.619Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:48:44.646Z] [debug] [system] [init.js] : Master
+[2023-09-24T13:48:44.658Z] [debug] [system] [SwitchingSetup[:7]] : Loading last proxy state from redis
+[2023-09-24T13:48:44.664Z] [debug] [lotuscoin] [ShareProcessor [:6]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:44.669Z] [debug] [system] [SwitchingSetup[:7]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:44.699Z] [error] [lotuscoin] [Pool [:7]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:44.700Z] [warn] [lotuscoin] [Pool [:7]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:44.803Z] [info] [lotuscoin] [Pool [:7]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:48:44.803Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:44.905Z] [info] [system] [PaymentProcessing] : Payment processor worker started
+[2023-09-24T13:48:44.911Z] [debug] [lotuscoin] [PaymentProcessor] : Validating address and balance
+[2023-09-24T13:48:44.907Z] [info] [system] [PaymentProcessing] : Enabled lotuscoin for payment processing
+[2023-09-24T13:48:44.918Z] [debug] [system] [SwitchingSetup[:8]] : Loading last proxy state from redis
+[2023-09-24T13:48:44.938Z] [debug] [lotuscoin] [ShareProcessor [:7]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:48:44.924Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:48:44.922Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:48:44.941Z] [debug] [system] [SwitchingSetup[:8]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:48:44.949Z] [debug] [system] [PaymentProcessing] : Processing processor initialized. Setup results true
+[2023-09-24T13:48:44.949Z] [info] [system] [PaymentProcessing] : Payment processing setup to run every 3600 second(s) with daemon (lotuscoinrpc@127.0.0.1:3939) and redis (127.0.0.1:6379)
+[2023-09-24T13:48:44.924Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:48:44.926Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:48:44.958Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:48:44.988Z] [error] [lotuscoin] [Pool [:8]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:48:44.989Z] [warn] [lotuscoin] [Pool [:8]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:48:44.999Z] [info] [lotuscoin] [Pool [:8]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:48:44.999Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:48:45.050Z] [debug] [lotuscoin] [PaymentProcessor] : Calling redis for array of rounds
+[2023-09-24T13:48:45.052Z] [debug] [lotuscoin] [PaymentProcessor] : Redis responsed: [null,[]]
+[2023-09-24T13:48:45.052Z] [debug] [lotuscoin] [PaymentProcessor] : Prepared info basic info about payments
+[2023-09-24T13:48:45.052Z] [debug] [lotuscoin] [PaymentProcessor] : Workers count: 0 Rounds: 0
+[2023-09-24T13:48:45.053Z] [debug] [lotuscoin] [PaymentProcessor] : Checking for confirmed rounds (blocks)
+[2023-09-24T13:48:45.054Z] [warn] [lotuscoin] [PaymentProcessor] : Could not decrypt address from tx (no tx.result or tx.address field) {"result":"","error":null,"id":1695563325059}
+[2023-09-24T13:48:45.055Z] [debug] [lotuscoin] [PaymentProcessor] : Getting all shares for rounds and calculating rewards for miners
+[2023-09-24T13:48:45.055Z] [debug] [lotuscoin] [PaymentProcessor] : Mapping workers into payout addresses
+[2023-09-24T13:48:45.056Z] [debug] [lotuscoin] [PaymentProcessor] : Merged workers into payout addresses
+[2023-09-24T13:48:45.056Z] [debug] [lotuscoin] [PaymentProcessor] : Almost ready to send funds, calculating against existing balances
+[2023-09-24T13:48:45.056Z] [debug] [lotuscoin] [PaymentProcessor] : Trying to send
+[2023-09-24T13:48:45.057Z] [info] [lotuscoin] [PaymentProcessor] : No workers was chosen for paying out
+[2023-09-24T13:48:45.057Z] [debug] [lotuscoin] [PaymentProcessor] : Finished interval - time spent: 7 ms total, 1 ms redis, 3 ms daemon RPC
+[2023-09-24T13:49:21.859Z] [info] [lotuscoin] [Pool [:3]] : Block notification via RPC polling
+[2023-09-24T13:49:21.921Z] [info] [lotuscoin] [Pool [:7]] : Block notification via RPC polling
+[2023-09-24T13:49:22.057Z] [info] [lotuscoin] [Pool [:8]] : Block notification via RPC polling
+[2023-09-24T13:49:22.127Z] [info] [lotuscoin] [Pool [:4]] : Block notification via RPC polling
+[2023-09-24T13:49:22.260Z] [info] [lotuscoin] [Pool [:5]] : Block notification via RPC polling
+[2023-09-24T13:49:22.261Z] [info] [lotuscoin] [Pool [:1]] : Block notification via RPC polling
+[2023-09-24T13:49:22.597Z] [info] [lotuscoin] [Pool [:2]] : Block notification via RPC polling
+[2023-09-24T13:49:22.634Z] [info] [lotuscoin] [Pool [:6]] : Block notification via RPC polling
+[2023-09-24T13:49:42.993Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563382994}\n"
+[2023-09-24T13:50:11.667Z] [info] [lotuscoin] [Pool [:2]] : Block notification via RPC polling
+[2023-09-24T13:50:11.785Z] [info] [lotuscoin] [Pool [:6]] : Block notification via RPC polling
+[2023-09-24T13:50:11.898Z] [info] [lotuscoin] [Pool [:3]] : Block notification via RPC polling
+[2023-09-24T13:50:11.960Z] [info] [lotuscoin] [Pool [:7]] : Block notification via RPC polling
+[2023-09-24T13:50:12.120Z] [info] [lotuscoin] [Pool [:8]] : Block notification via RPC polling
+[2023-09-24T13:50:12.222Z] [info] [lotuscoin] [Pool [:4]] : Block notification via RPC polling
+[2023-09-24T13:50:12.328Z] [info] [lotuscoin] [Pool [:1]] : Block notification via RPC polling
+[2023-09-24T13:50:12.339Z] [info] [lotuscoin] [Pool [:5]] : Block notification via RPC polling
+[2023-09-24T13:50:41.007Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563441006}\n"
+[2023-09-24T13:51:06.668Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:06.786Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:06.899Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:06.961Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:07.121Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:07.223Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:07.330Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:07.340Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:51:14.341Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T13:51:26.884Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:51:27.394Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-09-24T13:51:27.399Z] [debug] [lotuscoin] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:27.406Z] [debug] [system] [SwitchingSetup[:1]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:27.408Z] [error] [lotuscoin] [Pool [:1]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:27.408Z] [warn] [lotuscoin] [Pool [:1]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:27.415Z] [info] [lotuscoin] [Pool [:1]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+						Network Connected:	Mainnet
+						Detected Reward Type:	POW
+						Current Block Height:	157125
+						Current Connect Peers:	11
+						Current Block Diff:	303.320496827
+						Network Difficulty:	303.32049683
+						Network Hash Rate:	8.60 GH
+						Stratum Port(s):	4032, 4256
+						Pool Fee Percent:	0%
+						Block polling every:	1000 ms
+[2023-09-24T13:51:27.415Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:27.660Z] [debug] [system] [SwitchingSetup[:2]] : Loading last proxy state from redis
+[2023-09-24T13:51:27.666Z] [debug] [lotuscoin] [ShareProcessor [:1]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:27.669Z] [debug] [system] [SwitchingSetup[:2]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:27.691Z] [error] [lotuscoin] [Pool [:2]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:27.692Z] [warn] [lotuscoin] [Pool [:2]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:27.698Z] [info] [lotuscoin] [Pool [:2]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:51:27.699Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:27.908Z] [debug] [system] [SwitchingSetup[:3]] : Loading last proxy state from redis
+[2023-09-24T13:51:27.929Z] [debug] [lotuscoin] [ShareProcessor [:2]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:27.936Z] [error] [lotuscoin] [Pool [:3]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:27.938Z] [debug] [system] [SwitchingSetup[:3]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:27.936Z] [warn] [lotuscoin] [Pool [:3]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:27.944Z] [info] [lotuscoin] [Pool [:3]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:51:27.944Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:28.162Z] [debug] [system] [SwitchingSetup[:4]] : Loading last proxy state from redis
+[2023-09-24T13:51:28.168Z] [debug] [lotuscoin] [ShareProcessor [:3]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:28.174Z] [debug] [system] [SwitchingSetup[:4]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:28.176Z] [error] [lotuscoin] [Pool [:4]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:28.177Z] [warn] [lotuscoin] [Pool [:4]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:28.182Z] [info] [lotuscoin] [Pool [:4]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:51:28.183Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:28.425Z] [debug] [system] [SwitchingSetup[:5]] : Loading last proxy state from redis
+[2023-09-24T13:51:28.445Z] [debug] [lotuscoin] [ShareProcessor [:4]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:28.448Z] [debug] [system] [SwitchingSetup[:5]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:28.476Z] [error] [lotuscoin] [Pool [:5]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:28.476Z] [warn] [lotuscoin] [Pool [:5]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:28.483Z] [info] [lotuscoin] [Pool [:5]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:51:28.484Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:28.770Z] [debug] [system] [SwitchingSetup[:6]] : Loading last proxy state from redis
+[2023-09-24T13:51:28.776Z] [debug] [lotuscoin] [ShareProcessor [:5]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:28.779Z] [debug] [system] [SwitchingSetup[:6]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:28.795Z] [error] [lotuscoin] [Pool [:6]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:28.795Z] [warn] [lotuscoin] [Pool [:6]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:28.801Z] [info] [lotuscoin] [Pool [:6]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:51:28.801Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:28.895Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:51:28.922Z] [debug] [system] [init.js] : Master
+[2023-09-24T13:51:29.041Z] [debug] [system] [SwitchingSetup[:7]] : Loading last proxy state from redis
+[2023-09-24T13:51:29.062Z] [debug] [lotuscoin] [ShareProcessor [:6]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:29.065Z] [debug] [system] [SwitchingSetup[:7]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:29.114Z] [error] [lotuscoin] [Pool [:7]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:29.115Z] [warn] [lotuscoin] [Pool [:7]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:29.122Z] [info] [lotuscoin] [Pool [:7]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:51:29.122Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:29.175Z] [info] [system] [PaymentProcessing] : Payment processor worker started
+[2023-09-24T13:51:29.181Z] [debug] [lotuscoin] [PaymentProcessor] : Validating address and balance
+[2023-09-24T13:51:29.177Z] [info] [system] [PaymentProcessing] : Enabled lotuscoin for payment processing
+[2023-09-24T13:51:29.208Z] [debug] [system] [PaymentProcessing] : Processing processor initialized. Setup results true
+[2023-09-24T13:51:29.209Z] [info] [system] [PaymentProcessing] : Payment processing setup to run every 3600 second(s) with daemon (lotuscoinrpc@127.0.0.1:3939) and redis (127.0.0.1:6379)
+[2023-09-24T13:51:29.211Z] [debug] [system] [SwitchingSetup[:8]] : Loading last proxy state from redis
+[2023-09-24T13:51:29.217Z] [debug] [lotuscoin] [ShareProcessor [:7]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:51:29.219Z] [debug] [system] [SwitchingSetup[:8]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:51:29.196Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:51:29.194Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:51:29.196Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:51:29.198Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:51:29.247Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:51:29.314Z] [debug] [lotuscoin] [PaymentProcessor] : Calling redis for array of rounds
+[2023-09-24T13:51:29.317Z] [debug] [lotuscoin] [PaymentProcessor] : Redis responsed: [null,[]]
+[2023-09-24T13:51:29.318Z] [error] [lotuscoin] [Pool [:8]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:51:29.317Z] [debug] [lotuscoin] [PaymentProcessor] : Prepared info basic info about payments
+[2023-09-24T13:51:29.317Z] [debug] [lotuscoin] [PaymentProcessor] : Workers count: 0 Rounds: 0
+[2023-09-24T13:51:29.318Z] [debug] [lotuscoin] [PaymentProcessor] : Checking for confirmed rounds (blocks)
+[2023-09-24T13:51:29.318Z] [warn] [lotuscoin] [Pool [:8]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:51:29.319Z] [warn] [lotuscoin] [PaymentProcessor] : Could not decrypt address from tx (no tx.result or tx.address field) {"result":"","error":null,"id":1695563489323}
+[2023-09-24T13:51:29.320Z] [debug] [lotuscoin] [PaymentProcessor] : Getting all shares for rounds and calculating rewards for miners
+[2023-09-24T13:51:29.321Z] [debug] [lotuscoin] [PaymentProcessor] : Mapping workers into payout addresses
+[2023-09-24T13:51:29.321Z] [debug] [lotuscoin] [PaymentProcessor] : Merged workers into payout addresses
+[2023-09-24T13:51:29.321Z] [debug] [lotuscoin] [PaymentProcessor] : Almost ready to send funds, calculating against existing balances
+[2023-09-24T13:51:29.322Z] [debug] [lotuscoin] [PaymentProcessor] : Trying to send
+[2023-09-24T13:51:29.322Z] [info] [lotuscoin] [PaymentProcessor] : No workers was chosen for paying out
+[2023-09-24T13:51:29.323Z] [debug] [lotuscoin] [PaymentProcessor] : Finished interval - time spent: 10 ms total, 3 ms redis, 4 ms daemon RPC
+[2023-09-24T13:51:29.324Z] [info] [lotuscoin] [Pool [:8]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:51:29.325Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:51:32.487Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T13:52:12.349Z] [debug] [system] [Website] : Reloaded file getting_started.html
+[2023-09-24T13:52:17.897Z] [debug] [system] [Website] : Reloaded file getting_started.html
+[2023-09-24T13:52:21.418Z] [debug] [system] [init.js] : POSIX Connection Limit (Safe to ignore) POSIX module not installed and resource (connection) limit was not raised
+[2023-09-24T13:52:21.983Z] [debug] [system] [SwitchingSetup[:1]] : Loading last proxy state from redis
+[2023-09-24T13:52:21.989Z] [debug] [lotuscoin] [ShareProcessor [:0]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:22.008Z] [debug] [system] [SwitchingSetup[:1]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:22.065Z] [error] [lotuscoin] [Pool [:1]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:22.065Z] [warn] [lotuscoin] [Pool [:1]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:22.098Z] [info] [lotuscoin] [Pool [:1]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+						Network Connected:	Mainnet
+						Detected Reward Type:	POW
+						Current Block Height:	157125
+						Current Connect Peers:	11
+						Current Block Diff:	303.320496827
+						Network Difficulty:	303.32049683
+						Network Hash Rate:	8.60 GH
+						Stratum Port(s):	4032, 4256
+						Pool Fee Percent:	0%
+						Block polling every:	1000 ms
+[2023-09-24T13:52:22.099Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:22.262Z] [debug] [system] [SwitchingSetup[:2]] : Loading last proxy state from redis
+[2023-09-24T13:52:22.268Z] [debug] [lotuscoin] [ShareProcessor [:1]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:22.284Z] [debug] [system] [SwitchingSetup[:2]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:22.290Z] [error] [lotuscoin] [Pool [:2]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:22.290Z] [warn] [lotuscoin] [Pool [:2]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:22.297Z] [info] [lotuscoin] [Pool [:2]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:52:22.297Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:22.502Z] [debug] [system] [SwitchingSetup[:3]] : Loading last proxy state from redis
+[2023-09-24T13:52:22.508Z] [debug] [lotuscoin] [ShareProcessor [:2]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:22.514Z] [debug] [system] [SwitchingSetup[:3]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:22.517Z] [error] [lotuscoin] [Pool [:3]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:22.517Z] [warn] [lotuscoin] [Pool [:3]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:22.524Z] [info] [lotuscoin] [Pool [:3]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:52:22.524Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:22.705Z] [debug] [system] [SwitchingSetup[:4]] : Loading last proxy state from redis
+[2023-09-24T13:52:22.725Z] [debug] [lotuscoin] [ShareProcessor [:3]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:22.731Z] [debug] [system] [SwitchingSetup[:4]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:22.733Z] [error] [lotuscoin] [Pool [:4]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:22.733Z] [warn] [lotuscoin] [Pool [:4]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:22.739Z] [info] [lotuscoin] [Pool [:4]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:52:22.739Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:23.013Z] [debug] [system] [SwitchingSetup[:5]] : Loading last proxy state from redis
+[2023-09-24T13:52:23.032Z] [debug] [lotuscoin] [ShareProcessor [:4]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:23.038Z] [debug] [system] [SwitchingSetup[:5]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:23.040Z] [error] [lotuscoin] [Pool [:5]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:23.041Z] [warn] [lotuscoin] [Pool [:5]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:23.047Z] [info] [lotuscoin] [Pool [:5]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:52:23.047Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:23.241Z] [debug] [system] [SwitchingSetup[:6]] : Loading last proxy state from redis
+[2023-09-24T13:52:23.261Z] [debug] [lotuscoin] [ShareProcessor [:5]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:23.266Z] [debug] [system] [SwitchingSetup[:6]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:23.270Z] [error] [lotuscoin] [Pool [:6]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:23.270Z] [warn] [lotuscoin] [Pool [:6]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:23.276Z] [info] [lotuscoin] [Pool [:6]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:52:23.276Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:23.435Z] [info] [system] [CLI] : CLI listening on 127.0.0.1:17117
+[2023-09-24T13:52:23.472Z] [debug] [system] [init.js] : Master
+[2023-09-24T13:52:23.473Z] [debug] [system] [SwitchingSetup[:7]] : Loading last proxy state from redis
+[2023-09-24T13:52:23.494Z] [debug] [lotuscoin] [ShareProcessor [:6]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:23.500Z] [debug] [system] [SwitchingSetup[:7]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:23.502Z] [error] [lotuscoin] [Pool [:7]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:23.502Z] [warn] [lotuscoin] [Pool [:7]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:23.508Z] [info] [lotuscoin] [Pool [:7]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:52:23.509Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:23.710Z] [info] [system] [PaymentProcessing] : Payment processor worker started
+[2023-09-24T13:52:23.716Z] [debug] [lotuscoin] [PaymentProcessor] : Validating address and balance
+[2023-09-24T13:52:23.712Z] [info] [system] [PaymentProcessing] : Enabled lotuscoin for payment processing
+[2023-09-24T13:52:23.711Z] [info] [system] [Stats] : Starting Stats Module...
+[2023-09-24T13:52:23.708Z] [info] [system] [Website] : Starting Website module
+[2023-09-24T13:52:23.712Z] [debug] [system] [Stats] : Initializing Stats Redis...
+[2023-09-24T13:52:23.715Z] [debug] [system] [Stats] : Initializing Stats History...
+[2023-09-24T13:52:23.759Z] [info] [system] [Website] : Website started on 152.89.39.6:80
+[2023-09-24T13:52:23.773Z] [debug] [system] [PaymentProcessing] : Processing processor initialized. Setup results true
+[2023-09-24T13:52:23.773Z] [info] [system] [PaymentProcessing] : Payment processing setup to run every 3600 second(s) with daemon (lotuscoinrpc@127.0.0.1:3939) and redis (127.0.0.1:6379)
+[2023-09-24T13:52:23.782Z] [debug] [system] [SwitchingSetup[:8]] : Loading last proxy state from redis
+[2023-09-24T13:52:23.802Z] [debug] [lotuscoin] [ShareProcessor [:7]] : Share processing setup with redis (127.0.0.1:6379)
+[2023-09-24T13:52:23.807Z] [debug] [system] [SwitchingSetup[:8]] : Switching "switch1" listening for sha256 on port 3333 into 
+[2023-09-24T13:52:23.810Z] [error] [lotuscoin] [Pool [:8]] : Error generating transaction output script for FEE_ADDRESS in rewardRecipients
+[2023-09-24T13:52:23.810Z] [warn] [lotuscoin] [Pool [:8]] : No rewardRecipients have been setup which means no fees will be taken
+[2023-09-24T13:52:23.816Z] [info] [lotuscoin] [Pool [:8]] : Stratum Pool Server Started for lotuscoin [LTS] {skein}
+[2023-09-24T13:52:23.817Z] [debug] [system] [PoolWorker] : [skein] Setting proxy difficulties after pool start
+[2023-09-24T13:52:23.874Z] [debug] [lotuscoin] [PaymentProcessor] : Calling redis for array of rounds
+[2023-09-24T13:52:23.875Z] [debug] [lotuscoin] [PaymentProcessor] : Redis responsed: [null,[]]
+[2023-09-24T13:52:23.876Z] [debug] [lotuscoin] [PaymentProcessor] : Prepared info basic info about payments
+[2023-09-24T13:52:23.876Z] [debug] [lotuscoin] [PaymentProcessor] : Workers count: 0 Rounds: 0
+[2023-09-24T13:52:23.876Z] [debug] [lotuscoin] [PaymentProcessor] : Checking for confirmed rounds (blocks)
+[2023-09-24T13:52:23.877Z] [warn] [lotuscoin] [PaymentProcessor] : Could not decrypt address from tx (no tx.result or tx.address field) {"result":"","error":null,"id":1695563543878}
+[2023-09-24T13:52:23.878Z] [debug] [lotuscoin] [PaymentProcessor] : Getting all shares for rounds and calculating rewards for miners
+[2023-09-24T13:52:23.879Z] [debug] [lotuscoin] [PaymentProcessor] : Mapping workers into payout addresses
+[2023-09-24T13:52:23.879Z] [debug] [lotuscoin] [PaymentProcessor] : Merged workers into payout addresses
+[2023-09-24T13:52:23.879Z] [debug] [lotuscoin] [PaymentProcessor] : Almost ready to send funds, calculating against existing balances
+[2023-09-24T13:52:23.880Z] [debug] [lotuscoin] [PaymentProcessor] : Trying to send
+[2023-09-24T13:52:23.880Z] [info] [lotuscoin] [PaymentProcessor] : No workers was chosen for paying out
+[2023-09-24T13:52:23.881Z] [debug] [lotuscoin] [PaymentProcessor] : Finished interval - time spent: 7 ms total, 3 ms redis, 3 ms daemon RPC
+[2023-09-24T13:52:58.993Z] [debug] [system] [Website] : Reloaded file getting_started.html
+[2023-09-24T13:53:03.820Z] [debug] [system] [Website] : Reloaded file getting_started.html
+[2023-09-24T13:53:17.099Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:17.299Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:17.526Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:17.741Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:18.047Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:18.277Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:18.510Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:18.818Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:53:20.416Z] [debug] [system] [Website] : Reloaded file getting_started.html
+[2023-09-24T13:53:21.782Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563601787}\n"
+[2023-09-24T13:53:30.547Z] [debug] [system] [Website] : Reloaded file getting_started.html
+[2023-09-24T13:54:07.347Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:54:12.105Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:12.302Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:12.542Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:12.744Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:13.051Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:13.288Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:13.516Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:13.824Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:54:19.837Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563659844}\n"
+[2023-09-24T13:54:19.927Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:54:31.237Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:54:36.864Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:54:46.465Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:54:52.480Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:54:56.541Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:55:03.728Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:55:07.110Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:07.307Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:07.546Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:07.747Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:08.054Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:08.291Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:08.519Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:08.829Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:55:17.902Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563717910}\n"
+[2023-09-24T13:55:22.518Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:55:28.775Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:55:36.911Z] [info] [lotuscoin] [Pool [:7]] : Block notification via RPC polling
+[2023-09-24T13:55:36.911Z] [info] [lotuscoin] [Pool [:3]] : Block notification via RPC polling
+[2023-09-24T13:55:37.100Z] [info] [lotuscoin] [Pool [:4]] : Block notification via RPC polling
+[2023-09-24T13:55:37.144Z] [info] [lotuscoin] [Pool [:8]] : Block notification via RPC polling
+[2023-09-24T13:55:37.365Z] [info] [lotuscoin] [Pool [:5]] : Block notification via RPC polling
+[2023-09-24T13:55:37.411Z] [info] [lotuscoin] [Pool [:1]] : Block notification via RPC polling
+[2023-09-24T13:55:37.599Z] [info] [lotuscoin] [Pool [:6]] : Block notification via RPC polling
+[2023-09-24T13:55:37.604Z] [info] [lotuscoin] [Pool [:2]] : Block notification via RPC polling
+[2023-09-24T13:56:15.953Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563775953}\n"
+[2023-09-24T13:56:31.912Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:56:31.913Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:56:32.101Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:56:32.145Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:56:32.366Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:56:32.412Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:56:32.599Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:56:32.605Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:14.014Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563834021}\n"
+[2023-09-24T13:57:26.952Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:26.953Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:27.105Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:27.148Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:27.371Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:27.417Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:27.652Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:57:27.653Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:12.060Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563892063}\n"
+[2023-09-24T13:58:21.960Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:21.961Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:22.116Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:22.155Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:22.378Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:22.431Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:22.682Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:22.682Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:58:32.776Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T13:59:10.127Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695563950131}\n"
+[2023-09-24T13:59:16.990Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:59:16.990Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:59:17.144Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:59:17.160Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:59:17.491Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:59:17.492Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:59:17.784Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T13:59:17.785Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:08.147Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564008147}\n"
+[2023-09-24T14:00:12.055Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:12.055Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:12.152Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:12.177Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:12.504Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:12.506Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:12.801Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:00:12.801Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:06.183Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564066181}\n"
+[2023-09-24T14:01:06.739Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T14:01:07.059Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:07.060Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:07.235Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:07.235Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:07.529Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:07.536Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:08.181Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:08.181Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:01:15.527Z] [debug] [system] [Website] : Reloaded file dashboard.html
+[2023-09-24T14:02:02.084Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:02.085Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:02.256Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:02.257Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:02.564Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:02.565Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:03.292Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:03.293Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:04.248Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564124255}\n"
+[2023-09-24T14:02:57.092Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:57.092Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:57.313Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:57.313Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:57.584Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:57.584Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:58.318Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:02:58.319Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:02.277Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564182277}\n"
+[2023-09-24T14:03:52.115Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:52.116Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:52.322Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:52.322Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:52.596Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:52.785Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:53.327Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:03:53.328Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:00.340Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564240343}\n"
+[2023-09-24T14:04:18.578Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:04:24.027Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:04:47.133Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:47.133Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:47.323Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:47.324Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:47.598Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:47.808Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:48.328Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:48.330Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:04:58.344Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564298344}\n"
+[2023-09-24T14:05:04.006Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:05:28.218Z] [info] [lotuscoin] [Pool [:5]] : Block notification via RPC polling
+[2023-09-24T14:05:28.359Z] [info] [lotuscoin] [Pool [:1]] : Block notification via RPC polling
+[2023-09-24T14:05:28.463Z] [info] [lotuscoin] [Pool [:2]] : Block notification via RPC polling
+[2023-09-24T14:05:28.513Z] [info] [lotuscoin] [Pool [:6]] : Block notification via RPC polling
+[2023-09-24T14:05:28.751Z] [info] [lotuscoin] [Pool [:7]] : Block notification via RPC polling
+[2023-09-24T14:05:28.874Z] [info] [lotuscoin] [Pool [:3]] : Block notification via RPC polling
+[2023-09-24T14:05:29.050Z] [info] [lotuscoin] [Pool [:4]] : Block notification via RPC polling
+[2023-09-24T14:05:29.069Z] [info] [lotuscoin] [Pool [:8]] : Block notification via RPC polling
+[2023-09-24T14:05:37.583Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:05:40.228Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:05:56.393Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564356396}\n"
+[2023-09-24T14:06:21.323Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:06:23.218Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:23.359Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:23.464Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:23.514Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:23.752Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:23.875Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:24.050Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:24.069Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:06:41.378Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:06:48.012Z] [debug] [system] [Website] : Reloaded file home.html
+[2023-09-24T14:06:54.471Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564414478}\n"
+[2023-09-24T14:06:56.884Z] [info] [lotuscoin] [Pool [:7]] : Block notification via RPC polling
+[2023-09-24T14:06:56.898Z] [info] [lotuscoin] [Pool [:3]] : Block notification via RPC polling
+[2023-09-24T14:06:57.092Z] [info] [lotuscoin] [Pool [:4]] : Block notification via RPC polling
+[2023-09-24T14:06:57.183Z] [info] [lotuscoin] [Pool [:8]] : Block notification via RPC polling
+[2023-09-24T14:06:57.342Z] [info] [lotuscoin] [Pool [:5]] : Block notification via RPC polling
+[2023-09-24T14:06:57.424Z] [info] [lotuscoin] [Pool [:1]] : Block notification via RPC polling
+[2023-09-24T14:06:57.613Z] [info] [lotuscoin] [Pool [:2]] : Block notification via RPC polling
+[2023-09-24T14:06:57.632Z] [info] [lotuscoin] [Pool [:6]] : Block notification via RPC polling
+[2023-09-24T14:07:51.885Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:07:51.898Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:07:52.093Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:07:52.184Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:07:52.343Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:07:52.425Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:07:52.472Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564472478}\n"
+[2023-09-24T14:07:52.614Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:07:52.633Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:46.893Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:46.962Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:47.097Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:47.205Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:47.382Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:47.461Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:47.646Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:47.660Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:08:50.571Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564530570}\n"
+[2023-09-24T14:09:42.000Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:42.183Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:42.186Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:42.225Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:42.389Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:42.504Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:42.680Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:42.680Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:09:48.570Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564588568}\n"
+[2023-09-24T14:10:37.008Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:37.194Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:37.197Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:37.279Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:37.406Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:37.519Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:37.732Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:37.732Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:10:46.686Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564646689}\n"
+[2023-09-24T14:11:32.044Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:32.199Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:32.224Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:32.285Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:32.432Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:32.664Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:32.741Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:32.741Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:11:44.706Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564704708}\n"
+[2023-09-24T14:12:27.063Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:27.298Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:27.369Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:27.369Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:27.444Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:27.689Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:27.821Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:27.821Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:12:42.702Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564762707}\n"
+[2023-09-24T14:13:22.071Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:22.326Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:22.448Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:22.448Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:22.449Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:22.758Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:22.834Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:22.918Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:13:40.857Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564820865}\n"
+[2023-09-24T14:14:17.095Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:17.330Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:17.456Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:17.457Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:17.590Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:17.840Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:17.840Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:17.948Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:14:38.811Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564878815}\n"
+[2023-09-24T14:15:12.107Z] [info] [lotuscoin] [Pool [:7]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:12.388Z] [info] [lotuscoin] [Pool [:3]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:12.518Z] [info] [lotuscoin] [Pool [:4]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:12.518Z] [info] [lotuscoin] [Pool [:8]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:12.621Z] [info] [lotuscoin] [Pool [:5]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:12.858Z] [info] [lotuscoin] [Pool [:1]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:12.860Z] [info] [lotuscoin] [Pool [:6]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:12.986Z] [info] [lotuscoin] [Pool [:2]] : No new blocks for 55 seconds - updating transactions & rebroadcasting work
+[2023-09-24T14:15:36.871Z] [warn] [lotuscoin] [CoinDaemon] : Daemon returned unexpected return code 404, data = "{\"result\":null,\"error\":{\"code\":-32601,\"message\":\"Method not found\"},\"id\":1695564936878}\n"
+[2023-09-24T14:15:56.814Z] [info] [lotuscoin] [Pool [:3]] : Block notification via RPC polling
+[2023-09-24T14:15:56.877Z] [info] [lotuscoin] [Pool [:4]] : Block notification via RPC polling
+[2023-09-24T14:15:57.077Z] [info] [lotuscoin] [Pool [:8]] : Block notification via RPC polling
+[2023-09-24T14:15:57.193Z] [info] [lotuscoin] [Pool [:1]] : Block notification via RPC polling
+[2023-09-24T14:15:57.194Z] [info] [lotuscoin] [Pool [:5]] : Block notification via RPC polling
+[2023-09-24T14:15:57.393Z] [info] [lotuscoin] [Pool [:6]] : Block notification via RPC polling
+[2023-09-24T14:15:57.421Z] [info] [lotuscoin] [Pool [:2]] : Block notification via RPC polling
+[2023-09-24T14:15:57.643Z] [info] [lotuscoin] [Pool [:7]] : Block notification via RPC polling

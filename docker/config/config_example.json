@@ -1,8 +1,6 @@
 {
-    "logger" : {
-        "level" : "debug",
-        "file" : "logs/nomp_debug.log"
-    },
+    "logLevel": "debug",
+    "logColors": true,
 
     "cliHost": "127.0.0.1",
     "cliPort": 17117,
@@ -34,9 +32,9 @@
 
     "website": {
         "enabled": true,
-        "host": "152.89.39.6",
+        "host": "0.0.0.0",
         "port": 80,
-        "stratumHost": "FQDN",
+        "stratumHost": "cryppit.com",
         "stats": {
             "updateInterval": 60,
             "historicalRetention": 43200,
@@ -44,7 +42,7 @@
         },
         "adminCenter": {
             "enabled": true,
-            "password": "123qwe123"
+            "password": "password"
         }
     },
 
@@ -55,8 +53,8 @@
 
     "switching": {
         "switch1": {
-            "enabled": true,
-            "algorithm": "skein2",
+            "enabled": false,
+            "algorithm": "sha256",
             "ports": {
                 "3333": {
                     "diff": 10,
@@ -108,10 +106,9 @@
         "enabled": false,
         "updateInterval": 600,
         "depth": 0.90,
-        "usePoloniex": false,
-        "useCryptsy": false,
-        "useMintpal": false,
-        "useBittrex": false
-
+        "usePoloniex": true,
+        "useCryptsy": true,
+        "useMintpal": true,
+        "useBittrex": true
     }
 }
